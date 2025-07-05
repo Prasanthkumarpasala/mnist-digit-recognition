@@ -1,0 +1,8 @@
+venv/
+*.csv
+*.npz
+mlruns/
+__pycache__/
+*.pyc
+mlruns/
+saved_model/
